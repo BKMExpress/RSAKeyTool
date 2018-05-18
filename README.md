@@ -1,9 +1,9 @@
 # BKM Key Generator Tool
 Public-Private Key oluşturmak için ekteki RsaKeyGenerator dosyasını indirip,RsaKeyGenerator.exe 'yi çalıştırınız.
-Açılan ekranda Private Key oluşturma kategorisinde;
- PFX dosya ismi alanında istenilen sertifika ismi verilir.
- Şifre alanında ise yaratılacak olan sertifikanın şifresi yazılır.
- Key Size’da 1024 – 2048 seçeneklerinden biri seçilir.
+Açılan ekranda Private Key oluşturma kategorisinde;  <br>
+- PFX dosya ismi alanında istenilen sertifika ismi verilir.
+- Şifre alanında ise yaratılacak olan sertifikanın şifresi yazılır.
+- Key Size’da 1024 – 2048 seçeneklerinden biri seçilir.
 Generate New Key butonuna tıklayarak ,dizine kaydettiğinizde .pfx formatında private key sertifikası oluşturulur. 
 
 Public key görüntüleme kategorisinde;
