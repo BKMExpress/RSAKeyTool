@@ -1,5 +1,5 @@
 # BKM Key Generator Tool
-Public - private key çiftini üretmek için hazırlanmışdır.Ekteki RsaKeyGenerator dosyasını indirerek , RsaKeyGenerator.exe 'yi çalıştırınız.<br>
+Public - private key çiftini üretmek için hazırlanmışdır.Ekteki RsaKeyGeneratorEXE.rar dosyasını indirerek , RsaKeyGenerator.exe 'yi çalıştırınız.<br>
 Açılan ekranda Private Key oluşturma kategorisinde;  <br>
 - PFX dosya ismi alanında istenilen sertifika ismi verilir.
 - Şifre alanında ise yaratılacak olan sertifikanın şifresi yazılır.
@@ -16,4 +16,4 @@ m0mRDX3SXh5tQL5RZrGaK5SlnQiFQq9eudv59nMU6ugkAZt62SaaYxc/nJOVXJpG
 ZWUIVxvqQ0SN5Dh/OQIDAQAB <br>
 -----END PUBLIC KEY-----
 
-Public - Private key çiftini üretmiş oldunuz.Public key bilgisini BKM firmasına paylaşabilirsiniz,private key bilgisi (şifre,pfx dosyası) ise sizde kalmaktadır.Entegrasyonda sign'ı verify edebilmeniz için BKM'nin public key bilgisini kullanmanız gerekmektedir.Ekte BKMPem dosyasından BKM'nin public keyine ulaşabilirsiniz.
+Public - Private key çiftini üretmiş oldunuz.Public key bilgisini BKM firmasına paylaşabilirsiniz,private key bilgisi (şifre,pfx dosyası) ise sizde kalmaktadır.Entegrasyonda sign'ı verify edebilmeniz için BKM'nin public key bilgisini kullanmanız gerekmektedir.Ekte BKMPem.rar  dosyasından BKM'nin public keyine ulaşabilirsiniz.
