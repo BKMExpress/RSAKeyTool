@@ -7,7 +7,7 @@ Açılan ekranda Private Key oluşturma kategorisinde;  <br>
 Generate New Key butonuna tıklayarak ,dizine kaydettiğinizde .pfx formatında private key sertifikası oluşturulur. 
 
 Public key görüntüleme kategorisinde;
- Private Keyinizin Şifresi alanında private keyinizin şifresini girip,show key information butonuna tıklayarak, oluşturduğunuz pfx dosyasını seçtikten sonra ekranda örnek olarak aşağıdaki şekilde public keyiniz oluşacaktır.
+- Private Keyinizin Şifresi alanında private keyinizin şifresini girip,show key information butonuna tıklayarak, oluşturduğunuz pfx dosyasını seçtikten sonra ekranda örnek olarak aşağıdaki şekilde public keyiniz oluşacaktır.
 
 -----BEGIN PUBLIC KEY-----
 MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCgbFKcsF2OGimsqheG6Eiv8I+p
@@ -16,4 +16,4 @@ m0mRDX3SXh5tQL5RZrGaK5SlnQiFQq9eudv59nMU6ugkAZt62SaaYxc/nJOVXJpG
 ZWUIVxvqQ0SN5Dh/OQIDAQAB
 -----END PUBLIC KEY-----
 
-#Public key bilgisini BKM firmasına paylaşabilirsiniz,private key bilgisi (şifre,pfx dosyası) ise sizde kalmaktadır.
+- Public key bilgisini BKM firmasına paylaşabilirsiniz,private key bilgisi (şifre,pfx dosyası) ise sizde kalmaktadır.
