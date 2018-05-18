@@ -16,4 +16,5 @@ m0mRDX3SXh5tQL5RZrGaK5SlnQiFQq9eudv59nMU6ugkAZt62SaaYxc/nJOVXJpG
 ZWUIVxvqQ0SN5Dh/OQIDAQAB <br>
 -----END PUBLIC KEY-----
 
-- Public key bilgisini BKM firmasına paylaşabilirsiniz,private key bilgisi (şifre,pfx dosyası) ise sizde kalmaktadır.Entegrasyonda sign'ı verify edebilmeniz için BKM'nin public key bilgisini kullanmanız gerekmektedir.Ekte BKMPem dosyasından ulaşabilirsiniz.
+Public - Private key çiftini üretmiş oldunuz.Public key bilgisini BKM firmasına paylaşabilirsiniz,private key bilgisi (şifre,pfx dosyası) ise sizde kalmaktadır.<br>
+Entegrasyonda sign'ı verify edebilmeniz için BKM'nin public key bilgisini kullanmanız gerekmektedir.Ekte BKMPem dosyasından ulaşabilirsiniz.
